@@ -13,4 +13,4 @@ Beau the Bear is preparing for a long winter hibernation. Help him catch enough 
 - Maya (3D models)
 
 ## Notes
-This was a beginner project done during high school, not fully polished.
+This was a beginner project done during high school, not fully polished. See _Releases_ to check it out!
